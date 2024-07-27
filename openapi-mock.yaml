@@ -1,0 +1,10 @@
+openapi:
+  specification_url: 'headless-openapi.yaml'
+
+generation:
+  default_min_float: 1.0
+  default_max_float: 1.0
+  default_min_int: 1
+  default_max_int: 1
+  null_probability: 0
+  use_examples: 'if_present'
